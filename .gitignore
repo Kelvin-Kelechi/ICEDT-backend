@@ -1,0 +1,16 @@
+# node_modules (do not track installed packages)
+node_modules/
+
+# environment variables
+.env
+
+# logs
+logs
+*.log
+
+# OS-specific
+.DS_Store
+
+# IDEs
+.vscode/
+*.swp
