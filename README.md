@@ -14,20 +14,6 @@ Backend setup for the ICEDT assessment project. This service handles photo data 
 
 ---
 
-## 📁 Project Structure
-
-ICEDT-backend/
-│
-├── db.js # MongoDB connection logic
-├── index.js # Main HTTP server
-├── routes/ # (optional) folder for organizing routes
-├── controllers/ # (optional) logic to separate data handling
-├── .env # Your MongoDB URI
-├── package.json
-└── README.md
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the project
